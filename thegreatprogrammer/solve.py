@@ -7,7 +7,7 @@ try:
 	all_anchors=soup.find_all('a')
 	count=1
 	for anchor in all_anchors:
-		href = 'http://localhost/chall_noob/chall2'+anchor['href']
+		href = link+anchor['href']
 		print(str(count))
 		status = subprocess.check_output("curl -s -o /dev/null -w '%{http_code}' "+str(href), shell=True);
 		status = str(status.decode())
