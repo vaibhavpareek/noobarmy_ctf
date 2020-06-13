@@ -1,3 +1,4 @@
+import requests
 from bs4 import BeautifulSoup
 import subprocess
 #example link : http://localhost/noob_army/web1
