@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import subprocess
+#example link : http://localhost/noob_army/web1
 link= input("Enter link :  ")
 try:
 	data = requests.get(link).text
