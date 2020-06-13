@@ -4,7 +4,7 @@
 
 ### But hold on what the crap is this , it is encrypted how would i get something out of it??????? 
 
-## Let's try to decrypt this , think about ways by cookies can be setup.
+## Let's try to decrypt this , think about ways by which cookies can be setup.
 
 # Hurray!!!
 
