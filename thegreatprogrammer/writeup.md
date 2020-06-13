@@ -10,7 +10,7 @@
 
 ### Script is available in this repo only with the name solve.py (I have used python for scripting )
 
-### Script ch.py was created to generate these random string aur i should say false links
+### Script ch.py was created to generate these random string or i should say false links
 
 ### After Running the script you must have got only one valid link rest all are false links.
 
