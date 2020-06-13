@@ -3,8 +3,8 @@
 These challenges were present in the CTF competetion hosted by NOOB ARMY Community.
 ## Challenges : WEB
 ```
-1. [BE AT YOUR HOME](beatyourhome/)
-2. [THE GREAT PROGRAMMER](thegreatprogrammer/)
+1. [BE AT YOUR HOME](/beatyourhome/)
+2. [THE GREAT PROGRAMMER](/thegreatprogrammer/)
 ```
 
 ## I hope you all enjoyed alot while solving my challenges.
